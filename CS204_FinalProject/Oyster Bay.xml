@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<branch>
+    <station>Penn Station</station>
+    <station>Woodside</station>
+    <station>Forest Hills</station>
+    <station>Kew Gardens</station>
+    <station>Jamaica</station>
+    <station>Hollis</station>
+    <station>Queens Village</station>
+    <station>Floral Park</station>
+    <station>New Hyde Park</station>
+    <station>Merillon Ave</station>
+    <station>Mineola</station>
+    <station>East Williston</station>
+    <station>Albertson</station>
+    <station>Roslyn</station>
+    <station>Greenvale</station>
+    <station>Glen Head</station>
+    <station>Sea Cliff</station>
+    <station>Glen St</station>
+    <station>Glen Cove</station>
+    <station>Locust Valley</station>
+    <station>Oyster Bay</station>
+</branch>

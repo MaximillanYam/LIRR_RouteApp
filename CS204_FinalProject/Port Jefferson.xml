@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<branch>
+    <station>Penn Station</station>
+    <station>Woodside</station>
+    <station>Forest Hills</station>
+    <station>Kew Gardens</station>
+    <station>Jamaica</station>
+    <station>Hollis</station>
+    <station>Queens Village</station>
+    <station>Floral Park</station>
+    <station>New Hyde Park</station>
+    <station>Merillon Ave</station>
+    <station>Mineola</station>
+    <station>Carle Place</station>
+    <station>Westbury</station>
+    <station>Hicksville</station>
+    <station>Syosset</station>
+    <station>Cold Spring Harbor</station>
+    <station>Huntington</station>
+    <station>Greenlawn</station>
+    <station>Northport</station>
+    <station>Kings Park</station>
+    <station>Smithtown</station>
+    <station>St. James</station>
+    <station>Stony Brook</station>
+    <station>Port Jefferson</station>
+</branch>
