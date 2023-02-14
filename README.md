@@ -5,4 +5,4 @@ The Gui should then update and show the user the possible branches that stem fro
 
 
 
-NOTE - All of the files are required for the code to properly run.
+NOTE - All of the xml files are needed for the application to run, as well as JavaFx will need to be installed.
